@@ -42,3 +42,9 @@
 
 - git add README.md
 - git commit -m "git ที่ใช้ทั้งหมด"
+
+- git add .
+- git commit -m "แก้ไขเพิ่มเติม"
+
+- add README.md
+- git commit -m "git เพิ่มเติม"
