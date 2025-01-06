@@ -36,3 +36,9 @@
 
 - git add contact.html
 - git commit -m "เพิ่มฟอร์มในหน้าติดต่อ"
+
+- git add Screenshot.pdf
+- git commit -m "ภาพ Screenshot"
+
+- git add README.md
+- git commit -m "git ที่ใช้ทั้งหมด"
